@@ -7,21 +7,21 @@
 # https://www.bilibili.com/video/BV1Ym9HYfE4h/?spm_id_from=333.1387.search.video_card.click&vd_source=b9d9b1d316b235639477476cced11e94
 # 二、功能架构图
 ![image](https://github.com/user-attachments/assets/3299500a-5f3d-4f0e-8e34-ced8d384f82f)
-# 二、部分项目截图
-## 1.用户登录注册
+# 三、部分项目截图
+## 用户登录注册
 ![image](https://github.com/user-attachments/assets/e8819d83-db44-4d5e-93ed-eaf112c5dd88)
-个人信息管理
+## 个人信息管理
 ![image](https://github.com/user-attachments/assets/ae8d4d3e-2754-49b5-ac99-e8916b7bde1b)
-寻物招领信息浏览
+## 寻物招领信息浏览
 ![image](https://github.com/user-attachments/assets/4e091215-0bb1-4b21-a41e-731c6a043a74)
 ![image](https://github.com/user-attachments/assets/6a09fd64-ffd3-4f98-a3a2-7db0c3899953)
-寻物招领信息发布
+## 寻物招领信息发布
 ![image](https://github.com/user-attachments/assets/364a4a12-5f9e-443a-ad9a-aba9f56535c4)
-菜单管理
+## 菜单管理
 ![image](https://github.com/user-attachments/assets/86075d1b-8646-4f37-a23a-153cdee73498)
-用户管理
+## 用户管理
 ![image](https://github.com/user-attachments/assets/7552c8f3-17b7-4d13-8f5b-1f4a6eeafe89)
-公告管理
+## 公告管理
 ![image](https://github.com/user-attachments/assets/4a15e4ca-46dc-4203-b705-c5703167b92c)
 # 三、环境介绍
 语言环境：Java: jdk1.8
@@ -35,3 +35,5 @@
 后台开发技术：Springboot+Mybatis
 
 前端开发技术：Vue+ElementUI+微信小程序
+
+# 源码获取QQ：1061383457，提供远程调试服务，支持按需定制、修改，1V1答辩辅导。
